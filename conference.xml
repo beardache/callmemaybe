@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Response>
+	<Dial>
+		<Conference 
+			waitUrl="http://URL/static/mp3/outbound.mp3"
+			record="record-from-start"
+			beep="false">callTroll</Conference>
+	</Dial>
+</Response>
