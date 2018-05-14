@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">Please hold while we connect you to the next available represenetive</Say>
+  <Play>http://URL/static/mp3/toto.mp3</Play>
+</Response>
