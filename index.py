@@ -36,7 +36,6 @@ def parsePhoneNumber(_):
 
 def makeOutbound(requestUrl, toPhone):
 	for numbers in toPhone:
-		print numbers
 		call = client.calls.create(
 	                        url=requestUrl,
 	                        from_=config["phoneNumber"],
